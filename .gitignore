@@ -1,0 +1,55 @@
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+*.xcuserstate
+
+build/
+DerivedData/
+*.moved-aside
+
+# User-specific Xcode project files
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# Index and derived files
+*.hmap
+
+# Archives, debug symbols, packages
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Timeline / playground
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+.build/
+Dependencies/
+.accio/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# iOSInjection
+iOSInjectionProject/
+
